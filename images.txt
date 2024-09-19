@@ -1,1 +1,2 @@
 eclipse-temurin:8-jre
+eclipse-temurin:11-jre
