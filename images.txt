@@ -1,3 +1,2 @@
-redis:6.2.7
-nginx:1.22.1
+nacos/nacos-server:2.2.1
 
