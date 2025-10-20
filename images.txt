@@ -1,1 +1,1 @@
-amazoncorretto:17
+nacos/nacos-server:2.3.2
